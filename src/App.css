@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+#DistrictDropdown{
+  background-color: #353f46 !important;
+    border-color: #353f46 !important;
+}
